@@ -45,6 +45,7 @@
 
   .box2 {
     /* background-color:pink; */
+    background-color:#ffebcd;
     width:100%;
     height:1800px;
     text-align:center;
@@ -79,6 +80,7 @@
     width:100%;
     height:420px;
     /* background-color:lawngreen; */
+    background-color:#ffebcd;
   }
   
   .image-left img {
@@ -90,6 +92,7 @@
     width:100%;
     height:420px;
     /* background-color:black; */
+    background-color:#ffebcd;
   }
   
   .image-right img {
@@ -99,6 +102,7 @@
 
   .box3 {
     /* background-color:blue; */
+    background-color:#ffebcd;
     width:100%;
     height:2000px;
     text-align:center;
@@ -131,6 +135,7 @@
 
   .box4 {
     /* background-color:pink; */
+    background-color:#ffebcd;
     width:100%;
     height:1700px;
     text-align:center;
